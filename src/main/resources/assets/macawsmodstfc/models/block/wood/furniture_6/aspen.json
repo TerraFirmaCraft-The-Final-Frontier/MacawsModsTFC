@@ -1,0 +1,12 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/furniture_6",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/aspen",
+    "3": "tfc:blocks/wood/log/aspen",
+    "0": "minecraft:blocks/bookshelf",
+    "4": "tfc:blocks/wood/sheets/aspen",
+    "particle": "tfc:blocks/wood/log/aspen",
+    "texture": "tfc:blocks/wood/log/aspen",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

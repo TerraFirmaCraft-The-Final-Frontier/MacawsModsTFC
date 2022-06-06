@@ -1,0 +1,12 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/furniture_3",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/chestnut",
+    "3": "tfc:blocks/wood/log/chestnut",
+    "6": "tfc:blocks/wood/sheets/chestnut",
+    "7": "minecraft:blocks/bookshelf",
+    "particle": "tfc:blocks/wood/log/chestnut",
+    "texture": "tfc:blocks/wood/log/chestnut",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

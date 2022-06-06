@@ -1,0 +1,9 @@
+{
+  "parent": "mcwfurnitures:block/parent/box_2",
+  "textures": {
+    "2": "tfc:blocks/metal/wrought_iron",
+    "3": "tfc:blocks/wood/log/ash",
+    "4": "tfc:blocks/wood/sheets/ash",
+    "particle": "tfc:blocks/wood/log/ash"
+  }
+}

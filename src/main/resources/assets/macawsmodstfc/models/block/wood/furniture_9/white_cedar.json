@@ -1,0 +1,12 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/furniture_9",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/white_cedar",
+    "3": "tfc:blocks/wood/log/white_cedar",
+    "6": "tfc:blocks/wood/sheets/white_cedar",
+    "7": "minecraft:blocks/bookshelf",
+    "particle": "tfc:blocks/wood/log/white_cedar",
+    "texture": "tfc:blocks/wood/log/white_cedar",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

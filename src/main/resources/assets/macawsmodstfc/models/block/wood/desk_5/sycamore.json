@@ -1,0 +1,9 @@
+{
+  "parent": "mcwfurnitures:block/parent/desk_5",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/sycamore",
+    "particle": "tfc:blocks/wood/log/sycamore",
+    "texture": "tfc:blocks/wood/log/sycamore",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

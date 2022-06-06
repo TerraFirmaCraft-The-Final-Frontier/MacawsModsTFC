@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/cupboard_9",
+  "textures": {
+    "1": "tfc:blocks/wood/log/ash",
+    "3": "tfc:blocks/wood/log/ash",
+    "4": "tfc:blocks/wood/sheets/ash",
+    "5": "tfc:blocks/wood/sheets/ash",
+    "particle": "tfc:blocks/wood/log/ash",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

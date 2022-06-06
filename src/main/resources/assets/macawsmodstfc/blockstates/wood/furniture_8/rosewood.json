@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macawsmodstfc:wood/furniture_8/rosewood",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "macawsmodstfc:wood/furniture_8/rosewood",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "macawsmodstfc:wood/furniture_8/rosewood",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "macawsmodstfc:wood/furniture_8/rosewood"
+    }
+  }
+}

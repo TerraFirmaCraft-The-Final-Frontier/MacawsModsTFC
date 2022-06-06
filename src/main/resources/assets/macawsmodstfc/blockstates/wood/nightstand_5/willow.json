@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macawsmodstfc:wood/nightstand_5/willow",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "macawsmodstfc:wood/nightstand_5/willow",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "macawsmodstfc:wood/nightstand_5/willow",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "macawsmodstfc:wood/nightstand_5/willow"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/nightstand_5",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/pine",
+    "1": "tfc:blocks/wood/log/pine",
+    "2": "tfc:blocks/wood/log/pine",
+    "3": "tfc:blocks/wood/sheets/pine",
+    "particle": "tfc:blocks/wood/log/pine",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

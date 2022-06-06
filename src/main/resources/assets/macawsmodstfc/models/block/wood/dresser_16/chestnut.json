@@ -1,0 +1,14 @@
+{
+  "parent": "mcwfurnitures:block/parent/dresser_16",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/chestnut",
+    "2": "tfc:blocks/wood/sheets/chestnut",
+    "3": "tfc:blocks/wood/log/chestnut",
+    "4": "minecraft:blocks/sapling_oak",
+    "5": "minecraft:blocks/flower_pot",
+    "7": "minecraft:blocks/dirt",
+    "particle": "tfc:blocks/wood/log/chestnut",
+    "texture": "tfc:blocks/wood/log/chestnut",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

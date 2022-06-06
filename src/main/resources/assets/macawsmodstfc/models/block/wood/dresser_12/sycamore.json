@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/dresser_12",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/sycamore",
+    "2": "tfc:blocks/wood/sheets/sycamore",
+    "3": "tfc:blocks/wood/log/sycamore",
+    "particle": "tfc:blocks/wood/log/sycamore",
+    "texture": "tfc:blocks/wood/log/sycamore",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

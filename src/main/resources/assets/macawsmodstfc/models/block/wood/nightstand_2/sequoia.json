@@ -1,0 +1,10 @@
+{
+  "parent": "mcwfurnitures:block/parent/nightstand_2",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/sequoia",
+    "1": "tfc:blocks/wood/log/sequoia",
+    "2": "tfc:blocks/wood/log/sequoia",
+    "particle": "tfc:blocks/wood/log/sequoia",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

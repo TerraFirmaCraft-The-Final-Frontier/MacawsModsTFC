@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macawsmodstfc:wood/box_2/chestnut",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "macawsmodstfc:wood/box_2/chestnut",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "macawsmodstfc:wood/box_2/chestnut",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "macawsmodstfc:wood/box_2/chestnut"
+    }
+  }
+}

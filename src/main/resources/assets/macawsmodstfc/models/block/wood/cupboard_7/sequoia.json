@@ -1,0 +1,12 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/cupboard_7",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/sequoia",
+    "1": "tfc:blocks/wood/log/sequoia",
+    "3": "tfc:blocks/wood/log/sequoia",
+    "4": "tfc:blocks/wood/sheets/sequoia",
+    "6": "tfc:blocks/wood/log/sequoia",
+    "particle": "tfc:blocks/wood/log/sequoia",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

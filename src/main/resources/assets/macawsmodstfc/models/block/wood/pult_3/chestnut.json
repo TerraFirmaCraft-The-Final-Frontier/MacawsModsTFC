@@ -1,0 +1,10 @@
+{
+  "parent": "mcwfurnitures:block/parent/pult_3",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/chestnut",
+    "1": "tfc:blocks/wood/log/chestnut",
+    "3": "tfc:blocks/wood/log/chestnut",
+    "particle": "tfc:blocks/wood/log/chestnut",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

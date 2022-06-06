@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/dresser_12",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/white_cedar",
+    "2": "tfc:blocks/wood/sheets/white_cedar",
+    "3": "tfc:blocks/wood/log/white_cedar",
+    "particle": "tfc:blocks/wood/log/white_cedar",
+    "texture": "tfc:blocks/wood/log/white_cedar",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

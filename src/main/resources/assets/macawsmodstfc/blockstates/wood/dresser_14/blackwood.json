@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macawsmodstfc:wood/dresser_14/blackwood",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "macawsmodstfc:wood/dresser_14/blackwood",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "macawsmodstfc:wood/dresser_14/blackwood",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "macawsmodstfc:wood/dresser_14/blackwood"
+    }
+  }
+}

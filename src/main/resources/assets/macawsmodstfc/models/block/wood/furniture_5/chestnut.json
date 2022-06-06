@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/furniture_5",
+  "textures": {
+    "1": "tfc:blocks/wood/sheets/chestnut",
+    "3": "tfc:blocks/wood/log/chestnut",
+    "4": "tfc:blocks/wood/sheets/chestnut",
+    "particle": "tfc:blocks/wood/log/chestnut",
+    "texture": "tfc:blocks/wood/log/chestnut",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

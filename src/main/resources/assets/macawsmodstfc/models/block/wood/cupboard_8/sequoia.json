@@ -1,0 +1,11 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/cupboard_8",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/sequoia",
+    "1": "tfc:blocks/wood/log/sequoia",
+    "3": "tfc:blocks/wood/log/sequoia",
+    "5": "minecraft:blocks/bookshelf",
+    "particle": "tfc:blocks/wood/log/sequoia",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

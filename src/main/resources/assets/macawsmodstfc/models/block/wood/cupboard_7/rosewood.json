@@ -1,0 +1,12 @@
+{
+  "parent": "mcwfurnitures:block/parent/combined/cupboard_7",
+  "textures": {
+    "0": "tfc:blocks/wood/sheets/rosewood",
+    "1": "tfc:blocks/wood/log/rosewood",
+    "3": "tfc:blocks/wood/log/rosewood",
+    "4": "tfc:blocks/wood/sheets/rosewood",
+    "6": "tfc:blocks/wood/log/rosewood",
+    "particle": "tfc:blocks/wood/log/rosewood",
+    "1_2": "tfc:blocks/metal/wrought_iron"
+  }
+}

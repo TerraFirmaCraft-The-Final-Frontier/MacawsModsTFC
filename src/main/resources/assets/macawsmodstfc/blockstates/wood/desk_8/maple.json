@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macawsmodstfc:wood/desk_8/maple",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "macawsmodstfc:wood/desk_8/maple",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "macawsmodstfc:wood/desk_8/maple",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "macawsmodstfc:wood/desk_8/maple"
+    }
+  }
+}
